@@ -1,3 +1,5 @@
+#check even odd
+
 def even_no(num):
     if num % 2 == 0:
         print(f"{num} is even numner")

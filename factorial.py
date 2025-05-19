@@ -1,3 +1,4 @@
+# factorial
 def fact(num):
     n=1
     while num:
